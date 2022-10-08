@@ -13,9 +13,9 @@ function App() {
 
    const data = [
       { name: "dima", salary: 800, increase: false },
-      { name: "vova", salary: 100, increase: true },
+      { name: "vova", salary: 1000, increase: true },
       { name: "olga", salary: 5400, increase: false }
-   ]
+   ];
 
    return (
       <div className="app">
